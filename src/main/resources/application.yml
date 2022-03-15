@@ -1,0 +1,7 @@
+amazonProperties:
+  endpointUrl: https://s3.us-east-2.amazonaws.com
+  accessKey: AKIARH5X2GYHOO4XSD6T
+  secretKey: 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
+  bucketName: naveen-chaurasia-bucket
+
+server:  port: 8089
